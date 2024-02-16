@@ -10,6 +10,11 @@
       "StackName": "amplify-wildrydes-prod-122635",
       "StackId": "arn:aws:cloudformation:eu-west-1:338390845852:stack/amplify-wildrydes-prod-122635/b06dce10-cd09-11ee-ad4b-02c5a4dcf687",
       "AmplifyAppId": "d1ttrd5exjempc"
+    },
+    "categories": {
+      "auth": {
+        "wildrydesac92e4b7": {}
+      }
     }
   }
 }
