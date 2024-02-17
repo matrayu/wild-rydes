@@ -22,7 +22,7 @@ To see this app in action, please visit [Wild Rydes](https://main.d21rvi7airpu6a
 
 ## Introduction
 
-Wild Rydes is a conceptual ride-sharing application developed as a part of AWS Hands-On Sri Lanka 2019. The application presents users with an HTML-based user interface for indicating their pickup location and interfaces on the backend with a RESTful web service to submit ride requests and dispatch a nearby unicorn.
+Wild Rydes is a conceptual ride-sharing application developed by the team at AWS. The application presents users with an HTML-based user interface for indicating their pickup location and interfaces on the backend with a RESTful web service to submit ride requests and dispatch a nearby unicorn.
 
 ## Features
 
